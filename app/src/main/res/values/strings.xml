@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BodyTD</string>
+    <string name="start_game">Commencer</string>
+    <string name="select_difficulty">Sélectionnez la difficulté</string>
+    <string name="easy">Facile</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Difficile</string>
+    <string name="game_over">Partie terminée</string>
+    <string name="victory">Victoire !</string>
+    <string name="defeat">Défaite !</string>
+    <string name="tap_to_restart">Touchez pour recommencer</string>
+</resources>
